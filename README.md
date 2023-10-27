@@ -89,24 +89,31 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 
 ## Output:
 Profit Prediction:
+
 ![image](https://github.com/YogiReddy117/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123739437/545efa8a-7da4-47b5-a781-6fe6cc23b607)
 
 Cost Value:
+
 ![image](https://github.com/YogiReddy117/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123739437/c8e79e5d-c7a1-4e5c-b9fc-89a608a49c2f)
 
 Gradient descent(h(x)):
+
 ![image](https://github.com/YogiReddy117/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123739437/cb30116a-ddba-47cb-b4fe-e84c73ae3aa3)
 
 Cost function using Gradient Descent:
+
 ![image](https://github.com/YogiReddy117/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123739437/6b83ad4b-d621-413b-a3a9-e3627132e461)
 
 Linear Regression using Profit Prediction:
+
 ![image](https://github.com/YogiReddy117/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123739437/522abb75-1c17-4f6a-9113-f6bdae292f83)
 
 Profit Prediction for a population of 35000:
+
 ![image](https://github.com/YogiReddy117/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123739437/4ab541ae-a1ef-47a6-9184-41674dd4693f)
 
 Profit Prediction for a population of 70000:
+
 ![image](https://github.com/YogiReddy117/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123739437/e185db2c-8a54-4943-afbf-b952a2cc5c02)
 
 
